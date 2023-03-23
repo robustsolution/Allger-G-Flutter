@@ -1,0 +1,185 @@
+{
+    "welcome": "Bienvenue!",
+    "validEmail" : "Veuillez saisir un e-mail valide",
+    "lengthError" : "Assurez-vous que {} est compris entre {} et {} caractères",
+    "formatError" : "Il doit contenir uniquement A-Za-z0-9",
+    "error" : "Une erreur s'est produite. Veuillez réessayer !",
+    "confirmPassError" :"Password doesn't match!",
+    "success" : "{} Succesfully!",
+
+    "helpPage" : {
+        "title1" : "Choisir les ingrédients",
+        "title2" : "Suivez votre allergie",
+        "title3" :"Prendre contact",
+        "subTitle1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "subTitle2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "subTitle3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "continueBtn" : "Continuer",
+        "skipBtn" : "Ignorer"
+    },
+
+    "loginPage" : {
+        "title" : "Connexion",
+        "username" : "Nom d'utilisateur",
+        "password" : "Mot de passe",
+        "signinBtn" : "Connexion",
+        "forgot" : "Mot de passe oublié ?",
+        "loginWith" : "ou connectez-vous avec",
+        "dontaccount" : "Vous n'avez pas de compte? ",
+        "signupBtn" : "S'inscrire",
+        "wrongUsername" : "Mauvais nom d'utilisateur!",
+        "wrongpass" : "Mot de passe erroné!"
+        
+    },
+
+    
+    "signupPage" : {
+        "title" : "S'inscrire",
+        "email" : "E-mail",
+        "username" : "Nom d'utilisateur",
+        "password" : "Mot de passe",
+        "RPassword" : "Répéter le mot de passe",
+        "signinBtn" : "Connexion",
+        "signupWith" : "ou inscrivez-vous avec e-mail",
+        "alreadyAccount" : "Vous avez déjà un compte ? ",
+        "signupBtn" : "S'inscrire",
+        "weakPass" : "The password provided is too weak!",
+        "existEmail" : "The account already exists for that email"
+    },
+
+    "menu" : {
+        "homepage" : "Page d'accueil",
+        "profile" : "Profil",
+        "EpiPen" : "Rechercher Epi Pen",
+        "game" : "Jeu"
+    },
+
+    "profilePage" : {
+        "title" : "Profil",
+        "personal" : "Données personnelles",
+        "allergy" : "Informations sur les allergies",
+        "setting" : "Paramètres",
+        "logout" : "Déconnexion"
+    },
+
+    "personalPage" : {
+        "title" : "Personal Data",
+        "title1" : "Save Changes",
+        "firsname" : "Votre prénom",
+        "lastname" : "Votre nom de famille",
+        "phoneNumber" : "Numéro de téléphone",
+        "ePhoneNumber" : "Numéro de téléphone d'urgence",
+        "addNumber" : "Ajouter un autre numéro",
+        "contactName" : "Nom du contact",
+        "gender" : "Sexe",
+        "birth" : "Date de naissance",
+        "age" : "Âge",
+        "address" : "adresse",
+        "updateBtn" : "Mettre à jour"
+    },
+    "uploadPhotoPage" : {
+        "title" : "Photo de profil",
+        "source" : "Sélectionner une photo dans votre bibliothèque",
+        "or" : "ou",
+        "takePhoto" : "Prendre une photo",
+        "success" : "Uploaded Successfully!"
+    },
+
+    "informationPage" : {
+        "title" : "Login Informations",
+        "type" : "Type d'allergie",
+        "peanut" : "cacahuète",
+        "soy" : "soja",
+        "nuts" : "Noix",
+        "legumes" : "légumineuses",
+        "fruit" : "Fruits",
+        "fish" : "Poisson",
+        "wheat" : "Blé",
+        "milk" : "Lait",
+        "eggs" : "Oeufs",
+        "sesame" : "Sésame",
+        "height" : "Hauteur",
+        "weight" : "Poids",
+        "epiPen" : "Avez-vous un Epi Pen?"
+    },
+
+    "settingPage" : {
+        "title" : "Paramètres",
+        "loginInfo" : "Informations de connexion",
+        "language" : "Langue",
+        "notification" : "Notification",
+        "location" : "Emplacement",
+        "help" : "aider"
+    },
+
+    "loginInfoPage" : {
+        "title" : "Login Information",
+        "username" : "Nom d'utilisateur",
+        "email" : "E-mail",
+        "password" : "Mot de passe",
+        "rpassword" : "Répéter le mot de passe",
+        "changePass" : "Modifier le mot de passe",
+        "incorrectEmail" : "Please enter correct email!",
+        "currentPass" : "Current Paasword"
+
+
+    },
+
+    "languagePage" : {
+        "title" : "Language ",
+        "english" : "English",
+        "hebrew" : "Hebrew",
+        "french" : "French",
+        "german" : "German",
+        "selectedLang" : "Langue sélectionnée",
+        "selectLang" : "Sélectionner la langue"
+
+    },
+
+    "locationPage" : {
+        "title" : "Location",
+        "allowLocation" : "Allow Access to Location",
+        "myLocation" : "Your Location"
+    },
+       
+    "notificationPage" : {
+        "title" : "Notification",
+        "allowNotification" : "Push Notification"
+    },
+
+    "msg": "Hello {} in the {} world ",
+    "msg_named": "{} are written in the {lang} language",
+    "clickMe": "Click me",
+    "profile": {
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    },
+    "clicked": {
+        "zero": "You clicked {} times!",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "amount": {
+        "zero": "Your amount : {} ",
+        "one": "Your amount : {} ",
+        "two": "Your amount : {} ",
+        "few": "Your amount : {} ",
+        "many": "Your amount : {} ",
+        "other": "Your amount : {} "
+    },
+    "gender": {
+        "male": "Hi man ;) ",
+        "female": "Hello girl :)",
+        "with_arg": {
+            "male": "Hi man ;) {}",
+            "female": "Hello girl :) {}"
+        }
+    },
+    "reset_locale": "Reset Language"
+}

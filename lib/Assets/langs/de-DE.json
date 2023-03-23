@@ -1,0 +1,183 @@
+{
+    "welcome": "welkom!",
+    "validEmail" : "Voer een geldig e-mailadres in",
+    "lengthError" : "Zorg ervoor dat {} tussen {} en {} tekens is",
+    "formatError" : "Het mag alleen A-Za-z0-9 bevatten",
+    "error" : "Er is een fout opgetreden. Probeer het opnieuw!",
+    "confirmPassError" :"Password doesn't match!",
+    "success" : "{} Succesfully!",
+    "helpPage" : {
+        "title1" : "Kies ingrediënten",
+        "title2" : "Track Your Allergy",
+        "title3" :"Houd uw allergie bij",
+        "subTitle1" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "subTitle2" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "subTitle3" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "continueBtn" : "Doorgaan",
+        "skipBtn" : "Overslaan"
+    },
+
+    "loginPage" : {
+        "title" : "Inloggen",
+        "username" : "Gebruikersnaam",
+        "password" : "Wachtwoord",
+        "signinBtn" : "Aanmelden",
+        "forgot" : "Wachtwoord vergeten?",
+        "loginWith" : "of log in met",
+        "dontaccount" : "Heeft u geen account? ",
+        "signupBtn" : "Aanmelden",
+        "wrongUsername" : "Verkeerde gebruikersnaam!",
+        "wrongpass" : "Verkeerd wachtwoord!"
+        
+    },
+
+    
+    "signupPage" : {
+        "title" : "Aanmelden",
+        "email" : "E-mail",
+        "username" : "Gebruikersnaam",
+        "password" : "Wachtwoord",
+        "RPassword" : "Herhaal wachtwoord",
+        "signinBtn" : "Aanmelden",
+        "signupWith" : "of registreer met e-mail",
+        "alreadyAccount" : "Heeft u al een account? ",
+        "signupBtn" : "Aanmelden",
+        "weakPass" : "The password provided is too weak!",
+        "existEmail" : "The account already exists for that email"
+    },
+
+    "menu" : {
+        "homepage" : "Home page",
+        "profile" : "Profiel",
+        "EpiPen" : "Vind Epi-pen",
+        "game" : "Spel"
+    },
+
+    "profilePage" : {
+        "title" : "Profiel",
+        "personal" : "Persoonlijke gegevens",
+        "allergy" : "Allergie-informatie",
+        "setting" : "Instellingen",
+        "logout" : "Uitloggen"
+    },
+
+    "personalPage" : {
+        "title" : "Personal Data",
+        "title1" : "Save Changes",
+        "firsname" : "Uw voornaam",
+        "lastname" : "Uw achternaam",
+        "phoneNumber" : "Telefoonnummer",
+        "ePhoneNumber" : "Telefoonnummer voor noodgevallen",
+        "addNumber" : "Nog een nummer toevoegen",
+        "contactName" : "Naam contactpersoon",
+        "gender" : "Geslacht",
+        "birth" : "Geboortedatum",
+        "age" : "Leeftijd",
+        "address" : "adres",
+        "updateBtn" : "Bijwerken"
+    },
+    "uploadPhotoPage" : {
+        "title" : "Profielfoto",
+        "source" : "Selecteer een foto uit uw bibliotheek",
+        "or" : "of",
+        "takePhoto" : "Foto nemen",
+        "success" : "Uploaded Successfully!"
+    },
+
+    "informationPage" : {
+        "title" : "Login Informations",
+        "type" : "Alergietype",
+        "peanut" : "pinda",
+        "soy" : "Soja",
+        "nuts" : "Noten",
+        "legumes" : "peulvruchten",
+        "fruit" : "vrucht",
+        "fish" : "vis",
+        "wheat" : "tarwe",
+        "milk" : "Melk",
+        "eggs" : "eieren",
+        "sesame" : "Sesam",
+        "height" : "Hoogte",
+        "weight" : "Gewicht",
+        "epiPen" : "Heeft u een Epi Pen?"
+    },
+
+    "settingPage" : {
+        "title" : "Instellingen",
+        "loginInfo" : "Inloggegevens",
+        "language" : "Taal",
+        "notification" : "melding",
+        "location" : "locatie",
+        "help" : "Help"
+    },
+
+    "loginInfoPage" : {
+        "title" : "Login Information",
+        "username" : "Gebruikersnaam",
+        "email" : "E-mail",
+        "password" : "Wachtwoord",
+        "rpassword" : "Herhaal wachtwoord",
+        "changePass" : "Wachtwoord wijzigen",
+        "incorrectEmail" : "Please enter correct email!",
+        "currentPass" : "Current Paasword"
+
+
+    },
+
+    "languagePage" : {
+        "title" : "Language ",
+        "english" : "English",
+        "hebrew" : "Hebrew",
+        "french" : "French",
+        "german" : "German",
+        "selectedLang" : "Geselecteerde taal",
+        "selectLang" : "Taal selecteren"
+
+    },
+    "locationPage" : {
+        "title" : "Location",
+        "allowLocation" : "Allow Access to Location",
+        "myLocation" : "Your Location"
+    },
+       
+    "notificationPage" : {
+        "title" : "Notification",
+        "allowNotification" : "Push Notification"
+    },
+
+    "msg": "Hello {} in the {} world ",
+    "msg_named": "{} are written in the {lang} language",
+    "clickMe": "Click me",
+    "profile": {
+        "reset_password": {
+            "label": "Reset Password",
+            "username": "Username",
+            "password": "password"
+        }
+    },
+    "clicked": {
+        "zero": "You clicked {} times!",
+        "one": "You clicked {} time!",
+        "two": "You clicked {} times!",
+        "few": "You clicked {} times!",
+        "many": "You clicked {} times!",
+        "other": "You clicked {} times!"
+    },
+    "amount": {
+        "zero": "Your amount : {} ",
+        "one": "Your amount : {} ",
+        "two": "Your amount : {} ",
+        "few": "Your amount : {} ",
+        "many": "Your amount : {} ",
+        "other": "Your amount : {} "
+    },
+    "gender": {
+        "male": "Hi man ;) ",
+        "female": "Hello girl :)",
+        "with_arg": {
+            "male": "Hi man ;) {}",
+            "female": "Hello girl :) {}"
+        }
+    },
+    "reset_locale": "Reset Language"
+}

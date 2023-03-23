@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68806203971",
+    "project_id": "aller---g",
+    "storage_bucket": "aller---g.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68806203971:android:ff840acdd811ec572b92f6",
+        "android_client_info": {
+          "package_name": "com.example.allger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68806203971-soknhfc5j99b06ul0c6kts1ofgtl76h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.allger",
+            "certificate_hash": "deb269d1db9497bc1e876623e8271ed8c3989255"
+          }
+        },
+        {
+          "client_id": "68806203971-oah2jffcogpubga531tvlqutns2s0fh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLngpcR5et3mCKfEcjyLFmNFhNV7K-Ul4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68806203971-oah2jffcogpubga531tvlqutns2s0fh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

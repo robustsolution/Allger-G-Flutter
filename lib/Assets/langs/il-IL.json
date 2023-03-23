@@ -1,0 +1,184 @@
+{
+    "welcome": "إضغط هنا",
+    "validEmail" :"إضغط هنا",
+    "lengthError" :"إضغط هنا",
+    "formatError" :"إضغط هنا",
+    "error" :"إضغط هنا",
+    "confirmPassError" :"إضغط هنا!",
+    "success" : "{} إضغط هنا!",
+
+    "helpPage" : {
+        "title1" :"إضغط هنا",
+        "title2" :"إضغط هنا",
+        "title3" :"إضغط هنا",
+        "subTitle1" :"إضغط هنا",
+        "subTitle2" :"إضغط هنا",
+        "subTitle3" :"إضغط هنا",
+        "continueBtn" :"إضغط هنا",
+        "skipBtn" : "Skip"
+    },
+
+    "loginPage" : {
+        "title" :"إضغط هنا",
+        "username" :"إضغط هنا",
+        "password" :"إضغط هنا",
+        "signinBtn" :"إضغط هنا",
+        "forgot" :"إضغط هنا",
+        "loginWith" :"إضغط هنا",
+        "dontaccount" :"إضغط هنا",
+        "signupBtn" :"إضغط هنا",
+        "wrongUsername" :"إضغط هنا",
+        "wrongpass" : "إضغط هنا",
+        "weakPass" : "إضغط هنا",
+        "existEmail" : "إضغط هنا"
+        
+    },
+
+    
+    "signupPage" : {
+        "title" :"إضغط هنا",
+        "email" :"إضغط هنا",
+        "username" :"إضغط هنا",
+        "password" :"إضغط هنا",
+        "RPassword" :"إضغط هنا",
+        "signinBtn" :"إضغط هنا",
+        "signupWith" :"إضغط هنا",
+        "alreadyAccount" :"إضغط هنا",
+        "signupBtn" : "Sign Up"
+    },
+
+    "menu" : {
+        "homepage" :"إضغط هنا",
+        "profile" :"إضغط هنا",
+        "EpiPen" :"إضغط هنا",
+        "game" : "Game"
+    },
+
+    "profilePage" : {
+        "title" :"إضغط هنا",
+        "personal" :"إضغط هنا",
+        "allergy" :"إضغط هنا",
+        "setting" :"إضغط هنا",
+        "logout" : "Log Out"
+    },
+
+    "personalPage" : {
+        "title" :"إضغط هنا",
+        "title1" :"إضغط هنا",
+        "firsname" :"إضغط هنا",
+        "lastname" :"إضغط هنا",
+        "phoneNumber" :"إضغط هنا",
+        "ePhoneNumber" :"إضغط هنا",
+        "addNumber" :"إضغط هنا",
+        "contactName" :"إضغط هنا",
+        "gender" :"إضغط هنا",
+        "birth" :"إضغط هنا",
+        "age" :"إضغط هنا",
+        "address" :"إضغط هنا",
+        "updateBtn" : "Update"
+    },
+    "uploadPhotoPage" : {
+        "title" :"إضغط هنا",
+        "source" :"إضغط هنا",
+        "or" :"إضغط هنا",
+        "takePhoto" :"إضغط هنا",
+        "success" : "Uploaded Successfully!"
+    },
+
+    "informationPage" : {
+        "title" :"إضغط هنا",
+        "type" :"إضغط هنا",
+        "peanut" :"إضغط هنا",
+        "soy" :"إضغط هنا",
+        "nuts" :"إضغط هنا",
+        "legumes" :"إضغط هنا",
+        "fruit" :"إضغط هنا",
+        "fish" :"إضغط هنا",
+        "wheat" :"إضغط هنا",
+        "milk" :"إضغط هنا",
+        "eggs" :"إضغط هنا",
+        "sesame" :"إضغط هنا",
+        "height" :"إضغط هنا",
+        "weight" :"إضغط هنا",
+        "epiPen" : "Do you has an Epi Pen?"
+    },
+
+    "settingPage" : {
+        "title" :"إضغط هنا",
+        "loginInfo" :"إضغط هنا",
+        "language" :"إضغط هنا",
+        "notification" :"إضغط هنا",
+        "location" :"إضغط هنا",
+        "help" : "Help"
+    },
+
+    "loginInfoPage" : {
+        "title" :"إضغط هنا",
+        "username" :"إضغط هنا",
+        "email" :"إضغط هنا",
+        "password" :"إضغط هنا",
+        "rpassword" :"إضغط هنا",
+        "changePass" : "إضغط هنا",
+        "incorrectEmail" : "إضغط هنا",
+        "currentPass" : "إضغط هنا"
+
+
+    },
+
+    "languagePage" : {
+        "title" :"إضغط هنا",
+        "english" :"إضغط هنا",
+        "hebrew" :"إضغط هنا",
+        "french" :"إضغط هنا",
+        "german" :"إضغط هنا",
+        "selectedLang" :"إضغط هنا",
+        "selectLang" : "إضغط هنا"
+    },
+
+    "locationPage" : {
+        "title" : "Location",
+        "allowLocation" : "Allow Access to Location",
+        "myLocation" : "Your Location"
+    },
+       
+    "notificationPage" : {
+        "title" : "Notification",
+        "allowNotification" : "Push Notification"
+    },
+
+    "msg": "ضغط هنا",
+    "msg_named": "إضغط هنا",
+    "clickMe": "إضغط هنا",
+    "profile": {
+        "reset_password": {
+            "label": "إضغط هنا",
+            "username": "إضغط هنا",
+            "password": "إضغط هنا"
+        }
+    },
+    "clicked": {
+        "zero": "إضغط هنا",
+        "one": "إضغط هنا",
+        "two": "إضغط هنا",
+        "few": "إضغط هنا",
+        "many": "إضغط هنا",
+        "other": "clicked {} times!"
+    },
+    "amount": {
+        "zero": "إضغط هنا",
+        "one": "إضغط هنا",
+        "two": "إضغط هنا",
+        "few": "إضغط هنا",
+        "many": "إضغط هنا",
+        "other": "amount : {} "
+    },
+    "gender": {
+        "male": "إضغط هنا",
+        "female": "إضغط هنا",
+        "with_arg": {
+            "male": "إضغط هنا",
+            "female":"إضغط هنا"
+        }
+    },
+    "reset_locale": "إضغط هنا"
+}
